@@ -41,4 +41,4 @@ The final comparison showed that non-linear SVM kernels performed better than th
 
 * `code/svm_kernel_evaluation.ipynb`: SVM kernel experiments and hyperparameter tuning
 * `code/mlp_hinge_baselines.ipynb`: MLP with Hinge Loss and baseline classifiers
-* `Report.pdf`: project report
+* `Project_Report.pdf`: project report
